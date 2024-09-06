@@ -18,10 +18,42 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and collabo
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/mhouten/mhouten/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mhouten&theme=dracula" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</p>
+
+---
+
+### ⌨️ Coding Time Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mhouten&theme=dracula" alt="Wakatime Stats" />
+</p>
+
+---
+
+### 👁️‍🗨️ Profile Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mhouten/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -40,12 +72,21 @@ I love working on open-source projects and contributing to exciting software. Fe
 
 ---
 
-### 📈 Profile Summary & Views
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhouten&theme=dracula" alt="Profile Summary Card" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mhouten&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mhouten&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=blue" alt="Twitter" />
+  </a>
 </p>
