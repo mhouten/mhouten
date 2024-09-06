@@ -42,20 +42,11 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and collabo
 
 ---
 
-### ⌨️ Coding Time Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mhouten&theme=dracula" alt="Wakatime Stats" />
-</p>
-
----
-
 ### 👁️‍🗨️ Profile Visitors
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/mhouten/count.svg" alt="Visitor Count" />
 </p>
-
 ---
 
 ### 🛠️ Technologies & Tools
@@ -74,9 +65,7 @@ I love working on open-source projects and contributing to exciting software. Fe
 
 ### 📈 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mhouten&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+[![Mhouten's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhouten&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -90,3 +79,17 @@ I love working on open-source projects and contributing to exciting software. Fe
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=blue" alt="Twitter" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Contribution Metrics
+
+<p align="center">
+  <img src="https://github.com/mhouten/mhouten/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+### 🏞️ GitHub Skyline
+
+Check out my [3D GitHub Skyline](https://skyline.github.com/mhouten/2023) to see a 3D representation of my contributions!
