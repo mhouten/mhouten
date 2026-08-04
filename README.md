@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://mhouten-pnjxde6u4-mhoutens-projects.vercel.app/api/banner?theme=dark" alt="Shayan Gholami — Senior DevOps Engineer" width="100%" />
+<img src="https://mhouten.vercel.app/api/banner?theme=dark" alt="Shayan Gholami — Senior DevOps Engineer" width="100%" />
 
 # Shayan Gholami
 
@@ -24,69 +24,54 @@ Building reliable infrastructure, automating operations, and improving developer
 
 # 👋 About Me
 
-I'm a Senior DevOps Engineer with experience designing, deploying, and operating highly available production platforms.
+I'm a Senior DevOps Engineer specializing in designing, deploying, and operating highly available production platforms.
 
-My primary interests include:
-
-- Kubernetes & Cloud Native
-- Linux Infrastructure
-- CI/CD & GitOps
-- Platform Engineering
-- Automation
-- Networking
-- Observability
-- Backend Infrastructure
+My work focuses on cloud-native infrastructure, platform engineering, automation, and reliability across large-scale environments.
 
 ---
 
 # 🚀 Current Focus
 
 - Building production-ready Kubernetes platforms
-- Automating infrastructure with GitOps & Infrastructure as Code
-- Scaling CI/CD pipelines
-- Improving observability and reliability
-- Exploring AI-powered developer tooling
+- Automating infrastructure using Infrastructure as Code
+- Improving CI/CD and GitOps workflows
+- Increasing observability and production reliability
+- Exploring AI-powered developer tools
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Areas
 
-| Category | Technologies |
-|----------|--------------|
-| Containers | Kubernetes, Docker, Helm |
+| Area | Technologies |
+|------|--------------|
+| Platform | Kubernetes, Docker, Docker Swarm, Helm |
 | DevOps | GitLab CI/CD, GitHub Actions, ArgoCD, Ansible |
-| Infrastructure | Linux, NGINX, HAProxy, Ceph |
-| Monitoring | Prometheus, Grafana, ELK Stack, Fluentd |
+| Infrastructure | Linux, NGINX, HAProxy, Ceph, Nexus |
+| Monitoring | Prometheus, Grafana, ELK Stack, Fluentd, Kafka |
 | Databases | PostgreSQL, Oracle, MongoDB |
+| Networking | TCP/IP, DNS, TLS, Load Balancing, Reverse Proxy |
 | Languages | Go, Java, TypeScript, Bash |
 | Cloud | AWS, Cloudflare, Vercel |
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <p align="center">
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=mhouten&show_icons=true&hide_border=true&count_private=true&rank_icon=github"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhouten&layout=compact&hide_border=true"
+src="https://streak-stats.demolab.com?user=mhouten&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak"
 />
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=mhouten&theme=github-compact&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=mhouten&theme=github-compact&hide_border=true&area=false"
+alt="GitHub Contribution Graph"
+width="100%"
 />
 
 </p>
@@ -97,37 +82,40 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=mhouten&them
 
 | Project | Description |
 |----------|-------------|
-| **Portfolio** | Personal portfolio built with Next.js |
-| **GitHub Profile Banner** | Dynamic SVG banner served by Next.js |
-| **Carbon Chatbot** | Reusable AI chatbot component |
-| **DevOps Toolkit** | Infrastructure automation and deployment utilities |
+| **Portfolio** | Personal portfolio and resume website built with Next.js |
+| **GitHub Profile Banner** | Dynamic SVG banner generated with Next.js Route Handlers |
+| **Carbon Chatbot** | Reusable AI chatbot component for modern web applications |
+| **DevOps Toolkit** | Infrastructure automation, deployment templates, and operational utilities |
 
 ---
 
-# 💻 Interests
+# 💡 Interests
 
 - Platform Engineering
 - Cloud Native
 - Kubernetes
 - Linux
+- DevOps
+- Automation
 - Networking
 - Observability
-- Automation
-- Open Source
+- Backend Engineering
 - AI Engineering
+- Open Source
 
 ---
 
 # 🤝 Connect
 
-- 🌍 Portfolio *(Coming Soon)*
-- 💼 LinkedIn *(Coming Soon)*
-- 📄 Resume *(Coming Soon)*
+- 🌐 GitHub: https://github.com/mhouten
+- 🌍 Portfolio: Coming Soon
+- 💼 LinkedIn: Coming Soon
+- 📄 Resume: Coming Soon
 
 ---
 
 <div align="center">
 
-*"Automate the repetitive. Engineer the reliable."*
+**"Automate the repetitive. Engineer the reliable."**
 
 </div>
