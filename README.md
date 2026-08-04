@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://mhouten-pnjxde6u4-mhoutens-projects.vercel.app/api/banner?theme=dark" alt="Shayan Gholami — Senior DevOps Engineer" width="100%" />
@@ -132,4 +131,3 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=mhouten&them
 *"Automate the repetitive. Engineer the reliable."*
 
 </div>
-```
