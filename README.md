@@ -1,69 +1,55 @@
-### Hi there! 👋 I'm Mhouten!
+<div align="center">
 
-Welcome to my GitHub profile! I'm passionate about coding, learning, and collaborating on exciting projects. Below, you’ll find a glimpse of my GitHub stats, top languages, and other cool widgets showcasing my contributions.
+<img src="https://TODO.vercel.app/api/banner?theme=dark" alt="Shayan Gholami — Senior DevOps Engineer" width="100%" />
 
----
+# Shayan Gholami
 
-### 📊 GitHub Stats, Top Languages & Streak Stats
+Senior DevOps Engineer focused on Kubernetes platforms, Linux systems, production infrastructure, GitOps, automation, observability, networking, and reliability engineering across payment and telecom environments.
 
-<p align="center">
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mhouten&show_icons=true&theme=dracula&hide=stars,issues" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhouten&layout=compact&hide_title=1&card_width=300" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhouten&theme=dracula" alt="GitHub Streak" /></td>
-  </tr>
-</table>
-</p>
+</div>
 
----
+## Current focus
 
-### 🐍 Contribution Snake
+- Building and operating resilient Kubernetes and Linux platforms
+- Improving delivery through GitOps, CI/CD, and infrastructure automation
+- Strengthening observability, networking, security, and production reliability
+- Reducing operational risk in high-traffic payment and telecom systems
 
-<p align="center">
-  <img src="https://github.com/mhouten/mhouten/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+## Technical areas
 
----
+| Area | Technologies |
+|---|---|
+| Platforms | Kubernetes, Docker, Docker Swarm, Helm, Cilium, Calico |
+| Delivery | GitLab CI/CD, GitHub Actions, ArgoCD, Ansible |
+| Infrastructure | Linux, Ceph, HAProxy, NGINX, Nexus |
+| Observability | Prometheus, Grafana, Elasticsearch, Logstash, Kibana, Fluentd, Kafka |
+| Data | Oracle, MongoDB |
+| Networking | TCP/IP, DNS, TLS, load balancing, reverse proxies |
+| Security | RBAC, CIS hardening, Linux hardening |
 
-### 🏆 GitHub Trophies 
+## Selected repositories
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhouten&theme=dracula" alt="GitHub Trophies" />
-</p>
+<img src="https://TODO.vercel.app/api/repos?theme=dark" alt="Selected repositories" width="100%" />
 
----
+> Repository names are configured in [`config/profile.ts`](./config/profile.ts).
 
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</p>
-
----
-
-### 👁️‍🗨️ Profile Visitors
+## GitHub metrics
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mhouten/count.svg" alt="Visitor Count" />
+  <img src="https://TODO.vercel.app/api/metrics?theme=dark" alt="GitHub metrics" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TODO&theme=github-compact&hide_border=true&area=false" alt="Contribution activity graph" width="100%" />
+</p>
 
-### 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TODO/TODO/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="72%" />
+</p>
 
-- **Languages:** JavaScript, Python, Java, etc.
-- **Frameworks/Libraries:** React, Node.js, Django, etc.
-- **Tools:** Git, Docker, VSCode
+## Contact
 
----
+- CV: [TODO](https://TODO)
+- LinkedIn: [TODO](https://TODO)
+- Email: [TODO](mailto:TODO)
 
-### 🚀 Projects & Contributions
-
-I love working on open-source projects and contributing to exciting software. Feel free to explore my repositories and check out my work. If you're interested in collaborating, don’t hesitate to reach out!
-
----
-
-### 📈 GitHub Activity Graph
-
-[![Mhouten's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhouten&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
