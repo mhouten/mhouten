@@ -1,55 +1,135 @@
+```markdown
 <div align="center">
 
 <img src="https://mhouten-pnjxde6u4-mhoutens-projects.vercel.app/api/banner?theme=dark" alt="Shayan Gholami — Senior DevOps Engineer" width="100%" />
 
 # Shayan Gholami
 
-Senior DevOps Engineer focused on Kubernetes platforms, Linux systems, production infrastructure, GitOps, automation, observability, networking, and reliability engineering across payment and telecom environments.
+### Senior DevOps Engineer • Platform Engineer • Cloud Infrastructure
+
+Building reliable infrastructure, automating operations, and improving developer experience.
+
+<p>
+  <a href="https://github.com/mhouten?tab=followers">
+    <img src="https://img.shields.io/github/followers/mhouten?style=for-the-badge" alt="GitHub Followers" />
+  </a>
+
+  <a href="https://github.com/mhouten">
+    <img src="https://img.shields.io/github/stars/mhouten?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars" />
+  </a>
+</p>
 
 </div>
 
-## Current focus
+---
 
-- Building and operating resilient Kubernetes and Linux platforms
-- Improving delivery through GitOps, CI/CD, and infrastructure automation
-- Strengthening observability, networking, security, and production reliability
-- Reducing operational risk in high-traffic payment and telecom systems
+# 👋 About Me
 
-## Technical areas
+I'm a Senior DevOps Engineer with experience designing, deploying, and operating highly available production platforms.
 
-| Area | Technologies |
-|---|---|
-| Platforms | Kubernetes, Docker, Docker Swarm, Helm, Cilium, Calico |
-| Delivery | GitLab CI/CD, GitHub Actions, ArgoCD, Ansible |
-| Infrastructure | Linux, Ceph, HAProxy, NGINX, Nexus |
-| Observability | Prometheus, Grafana, Elasticsearch, Logstash, Kibana, Fluentd, Kafka |
-| Data | Oracle, MongoDB |
-| Networking | TCP/IP, DNS, TLS, load balancing, reverse proxies |
-| Security | RBAC, CIS hardening, Linux hardening |
+My primary interests include:
 
-## Selected repositories
+- Kubernetes & Cloud Native
+- Linux Infrastructure
+- CI/CD & GitOps
+- Platform Engineering
+- Automation
+- Networking
+- Observability
+- Backend Infrastructure
 
-<img src="https://mhouten-pnjxde6u4-mhoutens-projects.vercel.app/api/repos?theme=dark" alt="Selected repositories" width="100%" />
+---
 
-> Repository names are configured in [`config/profile.ts`](./config/profile.ts).
+# 🚀 Current Focus
 
-## GitHub metrics
+- Building production-ready Kubernetes platforms
+- Automating infrastructure with GitOps & Infrastructure as Code
+- Scaling CI/CD pipelines
+- Improving observability and reliability
+- Exploring AI-powered developer tooling
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Containers | Kubernetes, Docker, Helm |
+| DevOps | GitLab CI/CD, GitHub Actions, ArgoCD, Ansible |
+| Infrastructure | Linux, NGINX, HAProxy, Ceph |
+| Monitoring | Prometheus, Grafana, ELK Stack, Fluentd |
+| Databases | PostgreSQL, Oracle, MongoDB |
+| Languages | Go, Java, TypeScript, Bash |
+| Cloud | AWS, Cloudflare, Vercel |
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://mhouten-pnjxde6u4-mhoutens-projects.vercel.app/api/metrics?theme=dark" alt="GitHub metrics" width="100%" />
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=mhouten&show_icons=true&hide_border=true&count_private=true&rank_icon=github"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhouten&layout=compact&hide_border=true"
+/>
+
 </p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TODO&theme=github-compact&hide_border=true&area=false" alt="Contribution activity graph" width="100%" />
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=mhouten&theme=github-compact&hide_border=true"
+/>
+
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TODO/TODO/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="72%" />
-</p>
+---
 
-## Contact
+# 📌 Featured Projects
 
-- CV: [TODO](https://TODO)
-- LinkedIn: [TODO](https://TODO)
-- Email: [TODO](mailto:TODO)
+| Project | Description |
+|----------|-------------|
+| **Portfolio** | Personal portfolio built with Next.js |
+| **GitHub Profile Banner** | Dynamic SVG banner served by Next.js |
+| **Carbon Chatbot** | Reusable AI chatbot component |
+| **DevOps Toolkit** | Infrastructure automation and deployment utilities |
 
+---
+
+# 💻 Interests
+
+- Platform Engineering
+- Cloud Native
+- Kubernetes
+- Linux
+- Networking
+- Observability
+- Automation
+- Open Source
+- AI Engineering
+
+---
+
+# 🤝 Connect
+
+- 🌍 Portfolio *(Coming Soon)*
+- 💼 LinkedIn *(Coming Soon)*
+- 📄 Resume *(Coming Soon)*
+
+---
+
+<div align="center">
+
+*"Automate the repetitive. Engineer the reliable."*
+
+</div>
+```
